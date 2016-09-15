@@ -1,1 +1,1 @@
-# WhatsPay
+# WhatPay
